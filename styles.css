@@ -1,0 +1,31 @@
+/* GLOBAL STYLES */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.recipe {
+    list-style: none;
+    padding-left: 0;
+    line-height: 2em;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+/* STYLES FOR INDEX PAGE */
+
+
+
+
+/* STYLES FOR RECIPE PAGE */
